@@ -2,7 +2,7 @@
 
 A modern ticket booking and queue management system built with React and TypeScript. This application demonstrates FIFO (First In, First Out) queue data structure concepts through an interactive booking interface.
 
-🌐 Live Demo: https://parikshithgajula.github.io/queue-tickets/
+🌐 Live Demo: https://queue-simulation-ccc-git-main-parikshith-gajulas-projects.vercel.app/
 
 ## Features
 

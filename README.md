@@ -47,8 +47,6 @@ npm install
 npm run dev
 ```
 
-The application will be available at http://localhost:8080/
-
 ## Available Scripts
 
 - `npm run dev` - Start development server
